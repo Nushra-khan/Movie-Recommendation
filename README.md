@@ -1,9 +1,8 @@
 🎬 Movie Recommendation System 🎥
 
----------------------------------------------------------------------------------------------------
+
 
 A Machine Learning-based Movie Recommendation System that uses_ Content-Based Filtering_ and_ Collaborative Filtering_ to suggest personalized movie recommendations.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -12,4 +11,3 @@ A Machine Learning-based Movie Recommendation System that uses_ Content-Based Fi
 
 
 ✔️ Collaborative Filtering – Suggests movies based on user interactions and preferences.
------------------------------------------------------------------------------------------------------------------------------------
