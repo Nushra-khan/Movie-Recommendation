@@ -10,5 +10,5 @@ A Machine Learning-based Movie Recommendation System that uses_ Content-Based Fi
 ------------------------------------------------------------------------------------------------------------------
 ✔️ Content-Based Filtering – Recommends movies based on their features (e.g., genre, actors, director, etc.)
 
------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 ✔️ Collaborative Filtering – Suggests movies based on user interactions and preferences.
